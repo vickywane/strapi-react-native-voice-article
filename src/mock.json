@@ -1,0 +1,11 @@
+{
+  "recordings": [
+    {
+      "id": 1,
+      "name": "Morning Recording",
+      "description": "A recording taken in the morning of this week",
+      "created_at" : "12-12-12",
+      "recording": null
+    }
+  ]
+}
